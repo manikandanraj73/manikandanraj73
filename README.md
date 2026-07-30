@@ -1,66 +1,102 @@
-
-# Hi 👋, I'm Manikandan Raj
-
-![](https://komarev.com/ghpvc/?username=manikandanraj73&label=Profile%20Views)
+<h1 align="center">Hi 👋, I'm Manikandan</h1>
+<h3 align="center">Java Backend Developer | Spring MVC | Spring Boot</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+MVC+%7C+Spring+Boot+%7C+JDBC+%7C+MySQL;Building+Production-Ready+Backend+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+MVC+%7C+Spring+Boot;JDBC+%7C+MySQL+%7C+Redis;Always+Learning+New+Technologies" />
 </p>
 
-## Java Backend Developer
+---
 
-I'm passionate about building clean, scalable, and production-ready backend applications using Java technologies. I enjoy solving real-world problems and continuously improving my backend development skills.
+## 👨‍💻 About Me
+
+- ☕ Java Backend Developer
+- 🌱 Currently learning **Spring Boot, Microservices & Docker**
+- 💾 Strong knowledge in **JDBC, MySQL & REST APIs**
+- 🚀 Passionate about building scalable backend applications
+- 📍 India
 
 ---
 
 ## 🚀 Tech Stack
 
-- Java
-- Spring MVC
-- Spring Boot
-- JDBC
-- MySQL
-- REST APIs
-- Hibernate
-- Data JPA
-- Maven
-- Git & GitHub
-- Redis 
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea)
 
 ---
 
-## 📌 Projects
+## 📂 Featured Projects
 
-### 🎬 Movie Ticket Booking System
-A production-style backend application with authentication, seat booking, dynamic pricing, payment handling, and REST APIs.
+🔹 Hospital Management Services
 
-### 🏥 Hospital Management System
-Backend application for managing patients, doctors, appointments, billing, and hospital operations with authentication using JWT.
+🔹 Movie Ticket Booking System
 
-### 🔗 Student Record Management System
-Simple full stack project to perform CRUD operation on student data with Role based access with clean UI.
+🔹 Employee Management System
 
----
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandanraj73&show_icons=true&theme=github_dark)
-
-
-## 🌱 Currently Learning
-
-- Spring Boot (Advanced)
-- System Design
-- Microservices
-- Docker
-
----
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanraj73&layout=compact&theme=github_dark)
-## 📫 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/manikandan-raj-b17556367
+🔹 Student Record Management System
 
 ---
 
-> Learning through building real-world applications.
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manikandanraj73&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanraj73&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=manikandanraj73&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikandanraj73&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/manikandanraj73/manikandanraj73/output/snake.svg"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
