@@ -38,6 +38,8 @@ Backend application for managing patients, doctors, appointments, billing, and h
 Simple full stack project to perform CRUD operation on student data with Role based access with clean UI.
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandanraj73&show_icons=true)
+
 
 ## 🌱 Currently Learning
 
