@@ -1,9 +1,7 @@
 
-
-              ![](https://komarev.com/ghpvc/?username=manikandanraj73&label=Profile%20Views)
-
-
 # Hi 👋, I'm Manikandan Raj
+
+![](https://komarev.com/ghpvc/?username=manikandanraj73&label=Profile%20Views)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+MVC+%7C+JDBC+%7C+MySQL;Building+Production-Ready+Backend+Applications" />
