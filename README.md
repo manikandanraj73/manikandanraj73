@@ -65,7 +65,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=manikandanraj73&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=manikandanraj73&theme=tokyonight" />
 
 </p>
 
