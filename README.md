@@ -1,5 +1,9 @@
 # Hi 👋, I'm Manikandan Raj
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+MVC+%7C+JDBC+%7C+MySQL;Building+Production-Ready+Applications" alt="Typing SVG" />
+</p>
+
 ## Java Backend Developer
 
 I'm passionate about building clean, scalable, and production-ready backend applications using Java technologies. I enjoy solving real-world problems and continuously improving my backend development skills.
