@@ -41,7 +41,7 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 🔹 Hospital Management Services
 
@@ -53,24 +53,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manikandanraj73&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=manikandanraj73&theme=tokyonight" />
-
-</p>
-
----
-
 ## 📊 Contribution Graph
 
 <p align="center">
@@ -79,15 +61,6 @@
 
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/manikandanraj73/manikandanraj73/output/snake.svg"/>
-
-</p>
 
 ---
 
