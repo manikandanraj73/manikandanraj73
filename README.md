@@ -43,7 +43,9 @@ Backend application for managing patients, doctors, appointments, billing, and h
 Simple full stack project to perform CRUD operation on student data with Role based access with clean UI.
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandanraj73&show_icons=true)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandanraj73&show_icons=true&theme=github_dark)
 
 
 ## 🌱 Currently Learning
@@ -54,7 +56,9 @@ Simple full stack project to perform CRUD operation on student data with Role ba
 - Docker
 
 ---
+## 💻 Most Used Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanraj73&layout=compact&theme=github_dark)
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/manikandan-raj-b17556367
