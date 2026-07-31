@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manikandan</h1>
+<h1 align="center">Hi 👋, I'm Manikandan R</h1>
 <h3 align="center">Java Backend Developer | Spring MVC | Spring Boot</h3>
 
 <p align="center">
